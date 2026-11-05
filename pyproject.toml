@@ -1,0 +1,4 @@
+[project]
+name = "ai-kmeans-plus"
+version = "0.1.0"
+description = "Unsupervised clustering algorithm selecting initial centroids proportional to squared distance $D(x)^2$."
